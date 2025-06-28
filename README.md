@@ -3,7 +3,7 @@ ShopEase – Mini E-Commerce Web App
 ShopEase is a responsive frontend web app that displays a grid of products, allows category filtering, and includes a cart system with localStorage support.
 
 Live Demo:
-👉 [Click here to try it live]([https://your-username.github.io/shop-ease/](https://sohamsadak.github.io/shop-ease/))
+👉 [Click here to try it live]((https://sohamsadak.github.io/shop-ease/))
 
 ---
 
